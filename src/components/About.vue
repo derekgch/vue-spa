@@ -1,6 +1,6 @@
 <template>
   <div id="about">
-    no such thing
+    Hello this is about!
   </div>
 </template>
 
